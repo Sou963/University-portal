@@ -42,7 +42,8 @@ const NUBStudentPortal = () => {
               border: "2px solid #00d2ff",
             }}
             src="images/abc_icon.png"
-          ></img>
+            alt="ABC Portal logo"
+          />
           <h5 className="mb-0 fw-light fs-4 fw-bold">ABC PORTAL</h5>
         </div>
 
